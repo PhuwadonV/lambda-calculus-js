@@ -1,5 +1,5 @@
-[Example](https://jsfiddle.net/PhuwadonV/5zur1ady)
-[Lazy](https://jsfiddle.net/PhuwadonV/aL6xbu2d/)
+- [Example](https://jsfiddle.net/PhuwadonV/5zur1ady)
+- [Lazy](https://jsfiddle.net/PhuwadonV/aL6xbu2d/)
 ```js
 const TRUE = a => b => a;
 const FALSE = a => b => b;
